@@ -1,2 +1,2 @@
 # nlp-emotionClassifier
-Naturla Language simple project for Classifier emotion in text
+Naturla Language processing - simple project for Classifier emotion in text
